@@ -5,6 +5,7 @@
 > The app works seamlessly in both **portrait** and **landscape** orientations.
 
 VİDEO LİNK = https://drive.google.com/file/d/13WTUJ1CR11-PWmK6Yi2p7qsyaf1IczdE/view
+Repo Link = https://github.com/kademkalender/eduApp
 ---
 
 ## Group Information
