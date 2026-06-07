@@ -4,7 +4,7 @@
 > An iOS application that teaches computer science topics to middle school students through interactive lessons, countdown quizzes, and a badge reward system.
 > The app works seamlessly in both **portrait** and **landscape** orientations.
 
-VİDEO LİNK = https://drive.google.com/file/d/13WTUJ1CR11-PWmK6Yi2p7qsyaf1IczdE/view
+VİDEO LİNK = https://drive.google.com/file/d/1jAkr1Je2zlrJVt_cMEll5H25Zcn-mu9D/view?usp=drivesdk
 
 Repo Link = https://github.com/kademkalender/eduApp
 ---
